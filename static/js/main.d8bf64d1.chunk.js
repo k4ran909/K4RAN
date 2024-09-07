@@ -143,7 +143,7 @@
                                 title: "download resume",
                                 onClick: function() {
                                     var e = document.createElement("a");
-                                    e.setAttribute("href", "/kkara9009/assets/resume/kkara9009.pdf"), e.setAttribute("download", "kkara9009-resume.pdf"), e.click()
+                                    e.setAttribute("href", "/K4RAN/assets/resume/K4RAN.pdf"), e.setAttribute("download", "K4RAN-resume.pdf"), e.click()
                                 },
                                 "data-tooltip": "Download Resume",
                                 children: Object(f.jsx)(h.a, {
@@ -241,13 +241,13 @@
                         }), Object(f.jsxs)("picture", {
                             children: [Object(f.jsx)("source", {
                                 type: "image/webp",
-                                srcSet: "/kkara9009/assets/images/home/dev/bone.webp"
+                                srcSet: "/K4RAN/assets/images/home/dev/bone.webp"
                             }), Object(f.jsx)("source", {
                                 type: "image/png",
-                                srcSet: "/kkara9009/assets/images/home/dev/bone.png"
+                                srcSet: "/K4RAN/assets/images/home/dev/bone.png"
                             }), Object(f.jsx)("img", {
                                 ref: o,
-                                src: "/kkara9009/assets/images/home/dev/bone.png",
+                                src: "/K4RAN/assets/images/home/dev/bone.png",
                                 alt: "x-ray background",
                                 className: "bone-bg",
                                 width: "1600",
@@ -283,15 +283,15 @@
                                 children: Object(f.jsxs)("picture", {
                                     children: [Object(f.jsx)("source", {
                                         type: "image/webp",
-                                        srcSet: "/kkara9009/assets/images/home/design/2waterTower.webp"
+                                        srcSet: "/K4RAN/assets/images/home/design/2waterTower.webp"
                                     }), Object(f.jsx)("source", {
                                         type: "image/png",
-                                        srcSet: "/kkara9009/assets/images/home/design/2waterTower.png"
+                                        srcSet: "/K4RAN/assets/images/home/design/2waterTower.png"
                                     }), Object(f.jsx)("img", {
                                         width: "1600",
                                         height: "900",
                                         loading: "lazy",
-                                        src: "/kkara9009/assets/images/home/design/2waterTower.png",
+                                        src: "/K4RAN/assets/images/home/design/2waterTower.png",
                                         alt: "background tower"
                                     })]
                                 })
@@ -301,15 +301,15 @@
                                 children: Object(f.jsxs)("picture", {
                                     children: [Object(f.jsx)("source", {
                                         type: "image/webp",
-                                        srcSet: "/kkara9009/assets/images/home/design/3treesMidground.webp"
+                                        srcSet: "/K4RAN/assets/images/home/design/3treesMidground.webp"
                                     }), Object(f.jsx)("source", {
                                         type: "image/png",
-                                        srcSet: "/kkara9009/assets/images/home/design/3treesMidground.png"
+                                        srcSet: "/K4RAN/assets/images/home/design/3treesMidground.png"
                                     }), Object(f.jsx)("img", {
                                         width: "1600",
                                         height: "900",
                                         loading: "lazy",
-                                        src: "/kkara9009/assets/images/home/design/3treesMidground.png",
+                                        src: "/K4RAN/assets/images/home/design/3treesMidground.png",
                                         alt: "background trees"
                                     })]
                                 })
@@ -319,15 +319,15 @@
                                 children: Object(f.jsxs)("picture", {
                                     children: [Object(f.jsx)("source", {
                                         type: "image/webp",
-                                        srcSet: "/kkara9009/assets/images/home/design/4mysteryShack.webp"
+                                        srcSet: "/K4RAN/assets/images/home/design/4mysteryShack.webp"
                                     }), Object(f.jsx)("source", {
                                         type: "image/png",
-                                        srcSet: "/kkara9009/assets/images/home/design/4mysteryShack.png"
+                                        srcSet: "/K4RAN/assets/images/home/design/4mysteryShack.png"
                                     }), Object(f.jsx)("img", {
                                         width: "1600",
                                         height: "900",
                                         loading: "lazy",
-                                        src: "/kkara9009/assets/images/home/design/4mysteryShack.png",
+                                        src: "/K4RAN/assets/images/home/design/4mysteryShack.png",
                                         alt: "mystery shack"
                                     })]
                                 })
@@ -337,15 +337,15 @@
                                 children: Object(f.jsxs)("picture", {
                                     children: [Object(f.jsx)("source", {
                                         type: "image/webp",
-                                        srcSet: "/kkara9009/assets/images/home/design/5floatingCharacters.webp"
+                                        srcSet: "/K4RAN/assets/images/home/design/5floatingCharacters.webp"
                                     }), Object(f.jsx)("source", {
                                         type: "image/png",
-                                        srcSet: "/kkara9009/assets/images/home/design/5floatingCharacters.png"
+                                        srcSet: "/K4RAN/assets/images/home/design/5floatingCharacters.png"
                                     }), Object(f.jsx)("img", {
                                         width: "1600",
                                         height: "900",
                                         loading: "lazy",
-                                        src: "/kkara9009/assets/images/home/design/5floatingCharacters.png",
+                                        src: "/K4RAN/assets/images/home/design/5floatingCharacters.png",
                                         alt: "floating characters"
                                     })]
                                 })
@@ -355,15 +355,15 @@
                                 children: Object(f.jsxs)("picture", {
                                     children: [Object(f.jsx)("source", {
                                         type: "image/webp",
-                                        srcSet: "/kkara9009/assets/images/home/design/5groundCharacters.webp"
+                                        srcSet: "/K4RAN/assets/images/home/design/5groundCharacters.webp"
                                     }), Object(f.jsx)("source", {
                                         type: "image/png",
-                                        srcSet: "/kkara9009/assets/images/home/design/5groundCharacters.png"
+                                        srcSet: "/K4RAN/assets/images/home/design/5groundCharacters.png"
                                     }), Object(f.jsx)("img", {
                                         width: "1600",
                                         height: "900",
                                         loading: "lazy",
-                                        src: "/kkara9009/assets/images/home/design/5groundCharacters.png",
+                                        src: "/K4RAN/assets/images/home/design/5groundCharacters.png",
                                         alt: "ground characters"
                                     })]
                                 })
@@ -373,15 +373,15 @@
                                 children: Object(f.jsxs)("picture", {
                                     children: [Object(f.jsx)("source", {
                                         type: "image/webp",
-                                        srcSet: "/kkara9009/assets/images/home/design/7treesForeground.webp"
+                                        srcSet: "/K4RAN/assets/images/home/design/7treesForeground.webp"
                                     }), Object(f.jsx)("source", {
                                         type: "image/png",
-                                        srcSet: "/kkara9009/assets/images/home/design/7treesForeground.png"
+                                        srcSet: "/K4RAN/assets/images/home/design/7treesForeground.png"
                                     }), Object(f.jsx)("img", {
                                         width: "1600",
                                         height: "900",
                                         loading: "lazy",
-                                        src: "/kkara9009/assets/images/home/design/7treesForeground.png",
+                                        src: "/K4RAN/assets/images/home/design/7treesForeground.png",
                                         alt: "foreground trees"
                                     })]
                                 })
@@ -444,14 +444,14 @@
                                 children: [Object(f.jsxs)("picture", {
                                     children: [Object(f.jsx)("source", {
                                         type: "image/webp",
-                                        srcSet: "/kkara9009" + l
+                                        srcSet: "/K4RAN" + l
                                     }), Object(f.jsx)("source", {
                                         type: "image/png",
-                                        srcSet: "/kkara9009" + n
+                                        srcSet: "/K4RAN" + n
                                     }), Object(f.jsx)("img", {
                                         loading: "lazy",
                                         className: "avatar",
-                                        src: "/kkara9009" + n,
+                                        src: "/K4RAN" + n,
                                         alt: "Avatar of Nneka",
                                         width: "300",
                                         height: "300"
@@ -627,15 +627,15 @@
                                 children: [Object(f.jsxs)("picture", {
                                     children: [Object(f.jsx)("source", {
                                         type: "image/webp",
-                                        srcSet: "/kkara9009" + p
+                                        srcSet: "/K4RAN" + p
                                     }), Object(f.jsx)("source", {
                                         type: "image/jpeg",
-                                        srcSet: "/kkara9009" + d
+                                        srcSet: "/K4RAN" + d
                                     }), Object(f.jsx)("img", {
                                         width: "1600",
                                         height: "900",
                                         loading: "lazy",
-                                        src: "/kkara9009" + d,
+                                        src: "/K4RAN" + d,
                                         alt: "project preview"
                                     })]
                                 }), Object(f.jsxs)("div", {
@@ -758,15 +758,15 @@
                             children: [Object(f.jsxs)("picture", {
                                 children: [Object(f.jsx)("source", {
                                     type: "image/webp",
-                                    srcSet: "/kkara9009" + n
+                                    srcSet: "/K4RAN" + n
                                 }), Object(f.jsx)("source", {
                                     type: "image/jpeg",
-                                    srcSet: "/kkara9009" + c
+                                    srcSet: "/K4RAN" + c
                                 }), Object(f.jsx)("img", {
                                     width: "100",
                                     height: "100",
                                     loading: "lazy",
-                                    src: "/kkara9009" + c,
+                                    src: "/K4RAN" + c,
                                     alt: "project preview"
                                 })]
                             }), Object(f.jsxs)("div", {
@@ -817,7 +817,7 @@
                     key: 1
                 }, {
                     title: "Student Dashboard",
-                    githubUrl: "https://github.com/kkara9009/Student_Dashboard",
+                    githubUrl: "https://github.com/k4ran909/Student_Dashboard",
                     demoUrl: "https://eloquent-darwin-440c3c.netlify.app",
                     shortDescription: "A dashboard that displays student satisfaction numbers",
                     longDescription: "Built a dashboard that displays how satisfied students are with the assignments they received from their university/ academy, using charts and tables to visualize the data.",
@@ -856,7 +856,7 @@
                     webpImage: "/assets/images/projects/devProjects/Xjingle.webp",
                     key: 5
                 }, {
-                    title: "kkara9009",
+                    title: "K4RAN",
                     githubUrl: "https://github.com/itz-KARANRAJ/Portfolio",
                     shortDescription: "A portfolio website showcasing personal projects",
                     longDescription: "This is the website you are viewing right now. Using React built a portfolio website that allows users to toggle between designer and developer mode and view past and current projects. Designed 2 interactive homepages and 2 projectcards that react to the user's cursor movements.",
@@ -1154,7 +1154,7 @@
                             showOn: "both"
                         }, {
                             contactMethod: "github",
-                            url: "https://github.com/kkara9009",
+                            url: "https://github.com/k4ran909",
                             iconName: C.c,
                             showOn: "dev"
                         }, {

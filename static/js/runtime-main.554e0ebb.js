@@ -63,7 +63,7 @@
         return l.d(r, "a", r), r
     }, l.o = function(e, r) {
         return Object.prototype.hasOwnProperty.call(e, r)
-    }, l.p = "/kkara9009/";
+    }, l.p = "/K4RAN/";
     var f = this.webpackJsonpportfolio = this.webpackJsonpportfolio || [],
         i = f.push.bind(f);
     f.push = r, f = f.slice();
