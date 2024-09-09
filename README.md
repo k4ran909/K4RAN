@@ -38,4 +38,4 @@ A website to showcase past and current projects.
 * To connect or contact me on w specific social site, tap on the desired social icon in the contact section
 
 ## Credits
-For the second homepage (Design homepage) i make use of [kkara9009's](https://github.com/kkara9009) parallax.js library.
+For the second homepage (Design homepage) i make use of [Karan's](https://k4ran909.github.io/K4RAN) parallax.js library.
